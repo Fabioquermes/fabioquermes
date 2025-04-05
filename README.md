@@ -2,6 +2,8 @@
 
 ###
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=samlucax&label=Profile%20views&color=0e75b6&style=flat" alt="samlucax" /> </p>
+
 <p align="left">Seja bem vindo ao meu perfil ...!</p>
 
 ###
