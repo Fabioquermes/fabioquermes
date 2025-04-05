@@ -46,6 +46,6 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
-  [![Linkedin Badge](https://img.shields.io/badge/-Fabio%20Quermes-fbca16?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabiojqsilva/)](https://www.linkedin.com/in/fabiojqsilva/)
+#  [![Linkedin Badge](https://img.shields.io/badge/-Fabio%20Quermes-fbca16?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabiojqsilva/)](https://www.linkedin.com/in/fabiojqsilva/)
 
 ###
