@@ -14,17 +14,7 @@
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="03" alt="javascript logo"  />
-  <img width="03" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="03" alt="java logo"  />
-  <img width="03" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="03" alt="docker logo"  />
-  <img width="03" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="03" alt="linux logo"  />
-  <img width="03" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="03" alt="mysql logo"  />
-</div>
+
 
 ###
 
